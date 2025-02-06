@@ -1,0 +1,946 @@
+{
+  "awayTeam": {
+    "associationId": "200095",
+    "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/NED.svg",
+    "bigLogoUrl": "https://img.uefa.com/imgml/flags/700x700/NED.png",
+    "confederationType": "UEFA",
+    "countryCode": "NED",
+    "id": "95",
+    "idProvider": "FAME",
+    "internationalName": "Netherlands",
+    "isPlaceHolder": false,
+    "logoUrl": "https://img.uefa.com/imgml/flags/70x70/NED.png",
+    "mediumLogoUrl": "https://img.uefa.com/imgml/flags/240x240/NED.png",
+    "organizationId": "200095",
+    "teamCode": "NED",
+    "teamTypeDetail": "NATIONAL_MEN_TEAM_A",
+    "translations": {
+      "countryName": {
+        "EN": "Netherlands",
+        "FR": "Pays-Bas",
+        "DE": "Niederlande",
+        "ES": "Holanda",
+        "PT": "Holanda",
+        "IT": "Olanda",
+        "RU": "Нидерланды",
+        "ZH": "荷兰",
+        "TR": "Netherlands",
+        "HU": "Netherlands",
+        "CS": "Netherlands",
+        "NL": "Netherlands"
+      },
+      "displayName": {
+        "EN": "Netherlands",
+        "FR": "Pays-Bas",
+        "DE": "Niederlande",
+        "ES": "Países Bajos",
+        "PT": "Países Baixos",
+        "IT": "Paesi Bassi",
+        "RU": "Нидерланды",
+        "ZH": "荷兰",
+        "TR": "Netherlands",
+        "HU": "Netherlands",
+        "CS": "Netherlands",
+        "NL": "Netherlands"
+      },
+      "displayOfficialName": {
+        "EN": "Netherlands",
+        "FR": "Pays-Bas",
+        "DE": "Niederlande",
+        "ES": "Países Bajos",
+        "PT": "Países Baixos",
+        "IT": "Paesi Bassi",
+        "RU": "Нидерланды",
+        "ZH": "荷兰",
+        "TR": "Netherlands",
+        "HU": "Netherlands",
+        "CS": "Netherlands",
+        "NL": "Netherlands"
+      },
+      "displayTeamCode": {
+        "EN": "NED",
+        "FR": "NED",
+        "DE": "NED",
+        "ES": "NED",
+        "PT": "NED",
+        "IT": "NED",
+        "RU": "NED",
+        "ZH": "NED",
+        "TR": "NED",
+        "HU": "NED",
+        "CS": "NED",
+        "NL": "NED"
+      }
+    },
+    "typeIsNational": true,
+    "typeTeam": "NATIONAL"
+  },
+  "competition": {
+    "age": "ADULT",
+    "code": "EURO",
+    "id": "3",
+    "images": {
+      "FULL_LOGO": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/color/full/3.svg"
+    },
+    "metaData": {
+      "name": "European Championship"
+    },
+    "region": "CONTINENTAL",
+    "sex": "MALE",
+    "sportsType": "FOOTBALL",
+    "teamCategory": "NATIONAL",
+    "translations": {
+      "name": {
+        "EN": "UEFA EURO",
+        "FR": "UEFA EURO",
+        "DE": "UEFA EURO",
+        "ES": "UEFA EURO",
+        "PT": "UEFA EURO",
+        "IT": "UEFA EURO",
+        "RU": "ЕВРО",
+        "ZH": "UEFA EURO",
+        "TR": "UEFA EURO",
+        "HU": "UEFA EURO",
+        "CS": "UEFA EURO",
+        "NL": "UEFA EURO"
+      },
+      "prequalifyingName": {
+        "EN": "UEFA EURO",
+        "FR": "UEFA EURO",
+        "DE": "UEFA EURO",
+        "ES": "UEFA EURO",
+        "PT": "UEFA EURO",
+        "IT": "UEFA EURO",
+        "RU": "ЕВРО",
+        "ZH": "UEFA EURO",
+        "TR": "UEFA EURO",
+        "HU": "UEFA EURO",
+        "CS": "UEFA EURO",
+        "NL": "UEFA EURO"
+      },
+      "qualifyingName": {
+        "EN": "European Qualifiers",
+        "FR": "Éliminatoires européens",
+        "DE": "European Qualifiers",
+        "ES": "Clasificatorios Europeos",
+        "PT": "Qualificação Europeia",
+        "IT": "Qualificazioni Europee",
+        "RU": "Европейская квалификация",
+        "ZH": "EURO Qualifiers",
+        "TR": "European Qualifiers",
+        "HU": "European Qualifiers",
+        "CS": "European Qualifiers",
+        "NL": "European Qualifiers"
+      },
+      "tournamentName": {
+        "EN": "UEFA EURO",
+        "FR": "UEFA EURO",
+        "DE": "UEFA EURO",
+        "ES": "UEFA EURO",
+        "PT": "UEFA EURO",
+        "IT": "UEFA EURO",
+        "RU": "ЕВРО",
+        "ZH": "UEFA EURO",
+        "TR": "UEFA EURO",
+        "HU": "UEFA EURO",
+        "CS": "UEFA EURO",
+        "NL": "UEFA EURO"
+      }
+    },
+    "type": "CUP"
+  },
+  "homeTeam": {
+    "associationId": "200047",
+    "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/GER.svg",
+    "bigLogoUrl": "https://img.uefa.com/imgml/flags/700x700/FRG.png",
+    "confederationType": "UEFA",
+    "countryCode": "FRG",
+    "id": "47",
+    "idProvider": "FAME",
+    "internationalName": "West Germany",
+    "isPlaceHolder": false,
+    "logoUrl": "https://img.uefa.com/imgml/flags/70x70/FRG.png",
+    "mediumLogoUrl": "https://img.uefa.com/imgml/flags/240x240/FRG.png",
+    "organizationId": "200047",
+    "teamCode": "FRG",
+    "teamTypeDetail": "NATIONAL_MEN_TEAM_A",
+    "translations": {
+      "countryName": {
+        "EN": "West Germany",
+        "FR": "Allemagne de l'Ouest",
+        "DE": "Bundesrepublik Deutschland",
+        "ES": "República Federal de Alemania",
+        "PT": "República Federal da Alemanha",
+        "IT": "Germania Ovest",
+        "RU": "ФРГ",
+        "ZH": "West Germany",
+        "TR": "West Germany",
+        "HU": "West Germany",
+        "CS": "West Germany",
+        "NL": "West Germany"
+      },
+      "displayName": {
+        "EN": "West Germany",
+        "FR": "Allemagne de l'Ouest",
+        "DE": "Bundesrepublik Deutschland",
+        "ES": "República Federal de Alemania",
+        "PT": "República Federal da Alemanha",
+        "IT": "Germania Ovest",
+        "RU": "ФРГ",
+        "ZH": "西德",
+        "TR": "West Germany",
+        "HU": "West Germany",
+        "CS": "West Germany",
+        "NL": "West Germany"
+      },
+      "displayOfficialName": {
+        "EN": "West Germany",
+        "FR": "Allemagne de l'Ouest",
+        "DE": "Bundesrepublik Deutschland",
+        "ES": "República Federal de Alemania",
+        "PT": "República Federal da Alemanha",
+        "IT": "Germania Ovest",
+        "RU": "ФРГ",
+        "ZH": "西德",
+        "TR": "West Germany",
+        "HU": "West Germany",
+        "CS": "West Germany",
+        "NL": "West Germany"
+      },
+      "displayTeamCode": {
+        "EN": "FRG",
+        "FR": "RFA",
+        "DE": "FRG",
+        "ES": "FRG",
+        "PT": "RFA",
+        "IT": "FRG",
+        "RU": "FRG",
+        "ZH": "FRG",
+        "TR": "FRG",
+        "HU": "FRG",
+        "CS": "FRG",
+        "NL": "FRG"
+      }
+    },
+    "typeIsNational": true,
+    "typeTeam": "NATIONAL"
+  },
+  "id": "20",
+  "kickOffTime": {
+    "date": "1988-06-21",
+    "dateTime": "1988-06-21T18:15:00Z",
+    "utcOffsetInHours": 2
+  },
+  "lineupStatus": "TACTICAL_AVAILABLE",
+  "matchAttendance": 56115,
+  "matchday": {
+    "competitionId": "3",
+    "dateFrom": "1988-06-20T22:00:00+0000",
+    "dateTo": "1988-06-22T21:59:59+0000",
+    "format": "EXTRA_TIME_WITH_PENALTIES",
+    "id": "11652",
+    "longName": "1 - 1/2",
+    "name": "1",
+    "roundId": "209",
+    "seasonYear": "1988",
+    "sequenceNumber": "1",
+    "translations": {
+      "longName": {
+        "EN": "1 - 1/2",
+        "FR": "1 - 1/2",
+        "DE": "1 - 1/2",
+        "ES": "1 - 1/2",
+        "PT": "1 - 1/2",
+        "IT": "1 - 1/2",
+        "RU": "1 - 1/2",
+        "ZH": "1 - 1/2",
+        "TR": "1 - 1/2",
+        "HU": "1 - 1/2",
+        "CS": "1 - 1/2",
+        "NL": "1 - 1/2"
+      },
+      "name": {
+        "EN": "1",
+        "FR": "1",
+        "DE": "1",
+        "ES": "1",
+        "PT": "1",
+        "IT": "1",
+        "RU": "1",
+        "ZH": "1",
+        "TR": "1",
+        "HU": "1",
+        "CS": "1",
+        "NL": "1"
+      }
+    },
+    "type": "FINAL"
+  },
+  "playerEvents": {
+    "scorers": [
+      {
+        "goalType": "SCORED",
+        "id": "6780",
+        "images": {
+          "PLAYER_CELEBRATING": "https://img.uefa.com/imgml/TP/players/3/1988/900x1350/36.webp"
+        },
+        "phase": "SECOND_HALF",
+        "player": {
+          "age": "63",
+          "birthDate": "1961-03-21",
+          "clubShirtName": "Matthäus",
+          "countryCode": "GER",
+          "countryOfBirthCode": "GER",
+          "detailedFieldPosition": "UNKNOWN",
+          "fieldPosition": "MIDFIELDER",
+          "gender": "MALE",
+          "id": "36",
+          "imageUrl": "https://img.uefa.com/imgml/TP/players/3/1988/324x324/36.jpg",
+          "internationalName": "Lothar Matthäus",
+          "nationalFieldPosition": "MIDFIELDER",
+          "nationalShirtName": "",
+          "translations": {
+            "countryName": {
+              "EN": "Germany",
+              "FR": "Allemagne",
+              "DE": "Deutschland",
+              "ES": "Alemania",
+              "PT": "Alemanha",
+              "IT": "Germania",
+              "RU": "Германия",
+              "ZH": "德国",
+              "TR": "Germany",
+              "HU": "Germany",
+              "CS": "Germany",
+              "NL": "Germany"
+            },
+            "countryOfBirthName": {
+              "EN": "Germany",
+              "FR": "Allemagne",
+              "DE": "Deutschland",
+              "ES": "Alemania",
+              "PT": "Alemanha",
+              "IT": "Germania",
+              "RU": "Германия",
+              "ZH": "德国",
+              "TR": "Germany",
+              "HU": "Germany",
+              "CS": "Germany",
+              "NL": "Germany"
+            },
+            "fieldPosition": {
+              "EN": "Midfielder",
+              "FR": "Milieu",
+              "DE": "Mittelfeldspieler",
+              "ES": "Centrocampista",
+              "PT": "Médio",
+              "IT": "Centrocampista",
+              "RU": "Полузащитник",
+              "ZH": "中场球员",
+              "TR": "Midfielder",
+              "HU": "Midfielder",
+              "CS": "Midfielder",
+              "NL": "Midfielder"
+            },
+            "firstName": {
+              "EN": "Lothar",
+              "FR": "Lothar",
+              "DE": "Lothar",
+              "ES": "Lothar",
+              "PT": "Lothar",
+              "IT": "Lothar",
+              "RU": "Лотар",
+              "ZH": "洛塔尔",
+              "TR": "Lothar",
+              "HU": "Lothar",
+              "CS": "Lothar",
+              "NL": "Lothar"
+            },
+            "lastName": {
+              "EN": "Matthäus",
+              "FR": "Matthäus",
+              "DE": "Matthäus",
+              "ES": "Matthäus",
+              "PT": "Matthäus",
+              "IT": "Matthäus",
+              "RU": "Маттеус",
+              "ZH": "马特乌斯",
+              "TR": "Matthäus",
+              "HU": "Matthäus",
+              "CS": "Matthäus",
+              "NL": "Matthäus"
+            },
+            "name": {
+              "EN": "Lothar Matthäus",
+              "FR": "Lothar Matthäus",
+              "DE": "Lothar Matthäus",
+              "ES": "Lothar Matthäus",
+              "PT": "Lothar Matthäus",
+              "IT": "Lothar Matthäus",
+              "RU": "Лотар Маттеус",
+              "ZH": "洛塔尔·马特乌斯",
+              "TR": "Lothar Matthäus",
+              "HU": "Lothar Matthäus",
+              "CS": "Lothar Matthäus",
+              "NL": "Lothar Matthäus"
+            },
+            "nationalFieldPosition": {
+              "EN": "Midfielder",
+              "FR": "Milieu",
+              "DE": "Mittelfeldspieler",
+              "ES": "Centrocampista",
+              "PT": "Médio",
+              "IT": "Centrocampista",
+              "RU": "Полузащитник",
+              "ZH": "中场球员",
+              "TR": "Midfielder",
+              "HU": "Midfielder",
+              "CS": "Midfielder",
+              "NL": "Midfielder"
+            },
+            "shortName": {
+              "EN": "Matthäus",
+              "FR": "Matthäus",
+              "DE": "Matthäus",
+              "ES": "Matthäus",
+              "PT": "Matthäus",
+              "IT": "Matthäus",
+              "RU": "Маттеус",
+              "ZH": "马特乌斯",
+              "TR": "Matthäus",
+              "HU": "Matthäus",
+              "CS": "Matthäus",
+              "NL": "Matthäus"
+            }
+          }
+        },
+        "teamId": "47",
+        "teamIdProvider": "FAME",
+        "time": {
+          "minute": 55,
+          "second": 1
+        }
+      },
+      {
+        "goalType": "SCORED",
+        "id": "6782",
+        "images": {
+          "PLAYER_CELEBRATING": "https://img.uefa.com/imgml/TP/players/3/1988/900x1350/150026554.webp"
+        },
+        "phase": "SECOND_HALF",
+        "player": {
+          "age": "61",
+          "birthDate": "1963-03-21",
+          "clubShirtName": "",
+          "countryCode": "NED",
+          "detailedFieldPosition": "UNKNOWN",
+          "gender": "MALE",
+          "id": "150026554",
+          "imageUrl": "https://img.uefa.com/imgml/TP/players/3/1988/324x324/150026554.jpg",
+          "internationalName": "Ronald Koeman",
+          "nationalShirtName": "",
+          "translations": {
+            "countryName": {
+              "EN": "Netherlands",
+              "FR": "Pays-Bas",
+              "DE": "Niederlande",
+              "ES": "Holanda",
+              "PT": "Holanda",
+              "IT": "Olanda",
+              "RU": "Нидерланды",
+              "ZH": "荷兰",
+              "TR": "Netherlands",
+              "HU": "Netherlands",
+              "CS": "Netherlands",
+              "NL": "Netherlands"
+            },
+            "firstName": {
+              "EN": "Ronald",
+              "FR": "Ronald",
+              "DE": "Ronald",
+              "ES": "Ronald",
+              "PT": "Ronald",
+              "IT": "Ronald",
+              "RU": "Рональд",
+              "ZH": "Ronald",
+              "TR": "Ronald",
+              "HU": "Ronald",
+              "CS": "Ronald",
+              "NL": "Ronald"
+            },
+            "lastName": {
+              "EN": "Koeman",
+              "FR": "Koeman",
+              "DE": "Koeman",
+              "ES": "Koeman",
+              "PT": "Koeman",
+              "IT": "Koeman",
+              "RU": "Куман",
+              "ZH": "Koeman",
+              "TR": "Koeman",
+              "HU": "Koeman",
+              "CS": "Koeman",
+              "NL": "Koeman"
+            },
+            "name": {
+              "EN": "Ronald Koeman",
+              "FR": "Ronald Koeman",
+              "DE": "Ronald Koeman",
+              "ES": "Ronald Koeman",
+              "PT": "Ronald Koeman",
+              "IT": "Ronald Koeman",
+              "RU": "Рональд Куман",
+              "ZH": "Ronald Koeman",
+              "TR": "Ronald Koeman",
+              "HU": "Ronald Koeman",
+              "CS": "Ronald Koeman",
+              "NL": "Ronald Koeman"
+            },
+            "shortName": {
+              "EN": "Koeman",
+              "FR": "Koeman",
+              "DE": "Koeman",
+              "ES": "Koeman",
+              "PT": "Koeman",
+              "IT": "Koeman",
+              "RU": "Р. Куман",
+              "ZH": "Koeman",
+              "TR": "Koeman",
+              "HU": "Koeman",
+              "CS": "Koeman",
+              "NL": "Koeman"
+            }
+          }
+        },
+        "teamId": "95",
+        "teamIdProvider": "FAME",
+        "time": {
+          "minute": 74,
+          "second": 2
+        }
+      },
+      {
+        "goalType": "SCORED",
+        "id": "6781",
+        "images": {
+          "PLAYER_CELEBRATING": "https://img.uefa.com/imgml/TP/players/3/1988/900x1350/411.webp"
+        },
+        "phase": "SECOND_HALF",
+        "player": {
+          "age": "60",
+          "birthDate": "1964-10-31",
+          "clubShirtName": "Van Basten",
+          "countryCode": "NED",
+          "countryOfBirthCode": "NED",
+          "detailedFieldPosition": "UNKNOWN",
+          "fieldPosition": "FORWARD",
+          "gender": "MALE",
+          "id": "411",
+          "imageUrl": "https://img.uefa.com/imgml/TP/players/3/1988/324x324/411.jpg",
+          "internationalName": "Marco van Basten",
+          "nationalFieldPosition": "FORWARD",
+          "nationalShirtName": "",
+          "translations": {
+            "countryName": {
+              "EN": "Netherlands",
+              "FR": "Pays-Bas",
+              "DE": "Niederlande",
+              "ES": "Holanda",
+              "PT": "Holanda",
+              "IT": "Olanda",
+              "RU": "Нидерланды",
+              "ZH": "荷兰",
+              "TR": "Netherlands",
+              "HU": "Netherlands",
+              "CS": "Netherlands",
+              "NL": "Netherlands"
+            },
+            "countryOfBirthName": {
+              "EN": "Netherlands",
+              "FR": "Pays-Bas",
+              "DE": "Niederlande",
+              "ES": "Holanda",
+              "PT": "Holanda",
+              "IT": "Olanda",
+              "RU": "Нидерланды",
+              "ZH": "荷兰",
+              "TR": "Netherlands",
+              "HU": "Netherlands",
+              "CS": "Netherlands",
+              "NL": "Netherlands"
+            },
+            "fieldPosition": {
+              "EN": "Forward",
+              "FR": "Attaquant",
+              "DE": "Stürmer",
+              "ES": "Delantero",
+              "PT": "Avançado",
+              "IT": "Attaccante",
+              "RU": "Нападающий",
+              "ZH": "前锋",
+              "TR": "Forward",
+              "HU": "Forward",
+              "CS": "Forward",
+              "NL": "Forward"
+            },
+            "firstName": {
+              "EN": "Marco",
+              "FR": "Marco",
+              "DE": "Marco",
+              "ES": "Marco",
+              "PT": "Marco",
+              "IT": "Marco",
+              "RU": "Марко",
+              "ZH": "马尔科",
+              "TR": "Marco",
+              "HU": "Marco",
+              "CS": "Marco",
+              "NL": "Marco"
+            },
+            "lastName": {
+              "EN": "van Basten",
+              "FR": "van Basten",
+              "DE": "van Basten",
+              "ES": "van Basten",
+              "PT": "van Basten",
+              "IT": "van Basten",
+              "RU": "ван Бастен",
+              "ZH": "范·巴斯滕",
+              "TR": "van Basten",
+              "HU": "van Basten",
+              "CS": "van Basten",
+              "NL": "van Basten"
+            },
+            "name": {
+              "EN": "Marco van Basten",
+              "FR": "Marco van Basten",
+              "DE": "Marco van Basten",
+              "ES": "Marco van Basten",
+              "PT": "Marco van Basten",
+              "IT": "Marco van Basten",
+              "RU": "Марко ван Бастен",
+              "ZH": "马尔科·范·巴斯滕",
+              "TR": "Marco van Basten",
+              "HU": "Marco van Basten",
+              "CS": "Marco van Basten",
+              "NL": "Marco van Basten"
+            },
+            "nationalFieldPosition": {
+              "EN": "Forward",
+              "FR": "Attaquant",
+              "DE": "Stürmer",
+              "ES": "Delantero",
+              "PT": "Avançado",
+              "IT": "Attaccante",
+              "RU": "Нападающий",
+              "ZH": "前锋",
+              "TR": "Forward",
+              "HU": "Forward",
+              "CS": "Forward",
+              "NL": "Forward"
+            },
+            "shortName": {
+              "EN": "Van Basten",
+              "FR": "Van Basten",
+              "DE": "Van Basten",
+              "ES": "Van Basten",
+              "PT": "Van Basten",
+              "IT": "Van Basten",
+              "RU": "ван Бастен",
+              "ZH": "范·巴斯滕",
+              "TR": "Van Basten",
+              "HU": "Van Basten",
+              "CS": "Van Basten",
+              "NL": "Van Basten"
+            }
+          }
+        },
+        "teamId": "95",
+        "teamIdProvider": "FAME",
+        "time": {
+          "minute": 88,
+          "second": 3
+        }
+      }
+    ]
+  },
+  "referees": [],
+  "round": {
+    "active": false,
+    "benchPlayersCount": 5,
+    "competitionId": "3",
+    "dateFrom": "1988-06-20T22:00:00+0000",
+    "dateTo": "1988-06-22T21:59:59+0000",
+    "fieldPlayersCount": 11,
+    "groupCount": 2,
+    "id": "209",
+    "metaData": {
+      "name": "Semi-finals",
+      "type": "SEMIFINAL"
+    },
+    "mode": "KNOCK_OUT",
+    "modeDetail": "KNOCK_OUT_ONE_LEG",
+    "orderInCompetition": 2,
+    "phase": "TOURNAMENT",
+    "seasonYear": "1988",
+    "secondaryType": "KNOCKOUT_PHASE",
+    "stadiumNameType": "OFFICIAL_NAME",
+    "status": "FINISHED",
+    "teamCount": 4,
+    "teams": [
+      "66",
+      "47",
+      "95",
+      "141"
+    ],
+    "translations": {
+      "abbreviation": {
+        "EN": "SF",
+        "FR": "DF",
+        "DE": "HF",
+        "ES": "SF",
+        "PT": "MF",
+        "IT": "SF",
+        "RU": "1/2",
+        "ZH": "SF",
+        "TR": "SF",
+        "HU": "SF",
+        "CS": "SF",
+        "NL": "SF"
+      },
+      "name": {
+        "EN": "Semi-finals",
+        "FR": "Demi-finales",
+        "DE": "Halbfinale",
+        "ES": "Semifinales",
+        "PT": "Meias-finais",
+        "IT": "Semifinali",
+        "RU": "Полуфиналы",
+        "ZH": "Semi-finals",
+        "TR": "Semi-finals",
+        "HU": "Semi-finals",
+        "CS": "Semi-finals",
+        "NL": "Semi-finals"
+      },
+      "shortName": {
+        "EN": "Semi-finals",
+        "FR": "Demi-finales",
+        "DE": "Halbfinale",
+        "ES": "Semifinales",
+        "PT": "Meias-finais",
+        "IT": "Semifinali",
+        "RU": "1/2 финала",
+        "ZH": "半决赛",
+        "TR": "Semi-finals",
+        "HU": "Semi-finals",
+        "CS": "Semi-finals",
+        "NL": "Semi-finals"
+      }
+    }
+  },
+  "score": {
+    "regular": {
+      "away": 2,
+      "home": 1
+    },
+    "total": {
+      "away": 2,
+      "home": 1
+    }
+  },
+  "seasonYear": "1988",
+  "sessionNumber": 1,
+  "stadium": {
+    "address": "",
+    "capacity": 0,
+    "city": {
+      "countryCode": "GER",
+      "id": "1767",
+      "translations": {
+        "name": {
+          "EN": "Hamburg",
+          "FR": "Hambourg",
+          "DE": "Hamburg",
+          "ES": "Hamburgo",
+          "PT": "Hamburgo",
+          "IT": "Amburgo",
+          "RU": "Гамбург",
+          "ZH": "汉堡",
+          "TR": "Hamburg",
+          "HU": "Hamburg",
+          "CS": "Hamburg",
+          "NL": "Hamburg"
+        }
+      }
+    },
+    "countryCode": "GER",
+    "geolocation": {
+      "latitude": 53.5871778,
+      "longitude": 9.8985944
+    },
+    "id": "85689",
+    "images": {
+      "MEDIUM_WIDE": "https://img.uefa.com/imgml/stadium/matchinfo/w1/85689.jpg",
+      "LARGE_ULTRA_WIDE": "https://img.uefa.com/imgml/stadium/matchinfo/uw/85689.jpg"
+    },
+    "pitch": {
+      "length": 0,
+      "width": 0
+    },
+    "translations": {
+      "mediaName": {
+        "EN": "Volksparkstadion",
+        "FR": "Volksparkstadion",
+        "DE": "Volksparkstadion",
+        "ES": "Volksparkstadion",
+        "PT": "Volksparkstadion",
+        "IT": "Volksparkstadion",
+        "RU": "Фолькспаркштадион",
+        "ZH": "Volksparkstadion",
+        "TR": "Volksparkstadion",
+        "HU": "Volksparkstadion",
+        "CS": "Volksparkstadion",
+        "NL": "Volksparkstadion"
+      },
+      "name": {
+        "EN": "Volksparkstadion",
+        "FR": "Volksparkstadion",
+        "DE": "Volksparkstadion",
+        "ES": "Volksparkstadion",
+        "PT": "Volksparkstadion",
+        "IT": "Volksparkstadion",
+        "RU": "Фолькспаркштадион",
+        "ZH": "沃尔克斯巴达克球场",
+        "TR": "Volksparkstadion",
+        "HU": "Volksparkstadion",
+        "CS": "Volksparkstadion",
+        "NL": "Volksparkstadion"
+      },
+      "officialName": {
+        "EN": "Volksparkstadion",
+        "FR": "Volksparkstadion",
+        "DE": "Volksparkstadion",
+        "ES": "Volksparkstadion",
+        "PT": "Volksparkstadion",
+        "IT": "Volksparkstadion",
+        "RU": "Фолькспаркштадион",
+        "ZH": "沃尔克斯巴达克球场",
+        "TR": "Volksparkstadion",
+        "HU": "Volksparkstadion",
+        "CS": "Volksparkstadion",
+        "NL": "Volksparkstadion"
+      },
+      "specialEventsName": {
+        "EN": "Volksparkstadion",
+        "FR": "Volksparkstadion",
+        "DE": "Volksparkstadion",
+        "ES": "Volksparkstadion",
+        "PT": "Volksparkstadion",
+        "IT": "Volksparkstadion",
+        "RU": "Фолькспаркштадион",
+        "ZH": "Volksparkstadion",
+        "TR": "Volksparkstadion",
+        "HU": "Volksparkstadion",
+        "CS": "Volksparkstadion",
+        "NL": "Volksparkstadion"
+      },
+      "sponsorName": {
+        "EN": "Volksparkstadion",
+        "FR": "Volksparkstadion",
+        "DE": "Volksparkstadion",
+        "ES": "Volksparkstadion",
+        "PT": "Volksparkstadion",
+        "IT": "Volksparkstadion",
+        "RU": "Фолькспаркштадион",
+        "ZH": "沃尔克斯巴达克球场",
+        "TR": "Volksparkstadion",
+        "HU": "Volksparkstadion",
+        "CS": "Volksparkstadion",
+        "NL": "Volksparkstadion"
+      }
+    }
+  },
+  "status": "FINISHED",
+  "type": "SINGLE",
+  "winner": {
+    "match": {
+      "reason": "WIN_REGULAR",
+      "team": {
+        "associationId": "200095",
+        "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/NED.svg",
+        "bigLogoUrl": "https://img.uefa.com/imgml/flags/700x700/NED.png",
+        "confederationType": "UEFA",
+        "countryCode": "NED",
+        "id": "95",
+        "idProvider": "FAME",
+        "internationalName": "Netherlands",
+        "isPlaceHolder": false,
+        "logoUrl": "https://img.uefa.com/imgml/flags/70x70/NED.png",
+        "mediumLogoUrl": "https://img.uefa.com/imgml/flags/240x240/NED.png",
+        "organizationId": "200095",
+        "teamCode": "NED",
+        "teamTypeDetail": "NATIONAL_MEN_TEAM_A",
+        "translations": {
+          "countryName": {
+            "EN": "Netherlands",
+            "FR": "Pays-Bas",
+            "DE": "Niederlande",
+            "ES": "Holanda",
+            "PT": "Holanda",
+            "IT": "Olanda",
+            "RU": "Нидерланды",
+            "ZH": "荷兰",
+            "TR": "Netherlands",
+            "HU": "Netherlands",
+            "CS": "Netherlands",
+            "NL": "Netherlands"
+          },
+          "displayName": {
+            "EN": "Netherlands",
+            "FR": "Pays-Bas",
+            "DE": "Niederlande",
+            "ES": "Países Bajos",
+            "PT": "Países Baixos",
+            "IT": "Paesi Bassi",
+            "RU": "Нидерланды",
+            "ZH": "荷兰",
+            "TR": "Netherlands",
+            "HU": "Netherlands",
+            "CS": "Netherlands",
+            "NL": "Netherlands"
+          },
+          "displayOfficialName": {
+            "EN": "Netherlands",
+            "FR": "Pays-Bas",
+            "DE": "Niederlande",
+            "ES": "Países Bajos",
+            "PT": "Países Baixos",
+            "IT": "Paesi Bassi",
+            "RU": "Нидерланды",
+            "ZH": "荷兰",
+            "TR": "Netherlands",
+            "HU": "Netherlands",
+            "CS": "Netherlands",
+            "NL": "Netherlands"
+          },
+          "displayTeamCode": {
+            "EN": "NED",
+            "FR": "NED",
+            "DE": "NED",
+            "ES": "NED",
+            "PT": "NED",
+            "IT": "NED",
+            "RU": "NED",
+            "ZH": "NED",
+            "TR": "NED",
+            "HU": "NED",
+            "CS": "NED",
+            "NL": "NED"
+          }
+        },
+        "typeIsNational": true,
+        "typeTeam": "NATIONAL"
+      }
+    }
+  }
+}

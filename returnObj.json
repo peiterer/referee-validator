@@ -1,0 +1,45 @@
+{
+  "status": "valid",
+  "referees": [
+    {
+      "country name": "Ukraine",
+      "first name": "Mykola",
+      "last name": "Balakin"
+    },
+    {
+      "country name": "France",
+      "first name": "Laurent",
+      "last name": "Duhamel"
+    },
+    {
+      "country name": "Ukraine",
+      "first name": "Vitaliy",
+      "last name": "Romanov"
+    },
+    {
+      "country name": "Ukraine",
+      "first name": "Denys",
+      "last name": "Shurman"
+    },
+    {
+      "country name": "Ukraine",
+      "first name": "Oleksii",
+      "last name": "Derevinskyi"
+    },
+    {
+      "country name": "Ukraine",
+      "first name": "Semen",
+      "last name": "Shlonchak"
+    },
+    {
+      "country name": "Finland",
+      "first name": "Kari",
+      "last name": "Haapiainen"
+    },
+    {
+      "country name": "Ukraine",
+      "first name": "Viktor",
+      "last name": "Matyash"
+    }
+  ]
+}
