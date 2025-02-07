@@ -6,15 +6,24 @@ Referee Validator is a simple tool to verify referees from an UEFA match id.
 
 Use the package manager [npm](https://www.npmjs.com/) to install Referee Validator.
 
+1. Ensure you have Node.js installed. Click [here](https://nodejs.org/en/download) for installation
+2. Install dependencies using npm:
+
 ```bash
-npm???
+npm install express
+npm install axios
 ```
 
 ## Usage
 
-```python
-Describe usage with examples
+To start the server, run this command:
+
+```bash
+npm run dev
 ```
+
+The UI will then be available at http://localhost:3000
+You can also make a direct GET request at http://localhost:3000/matchid
 
 ## Contributing
 
