@@ -12,6 +12,7 @@ Use the package manager [npm](https://www.npmjs.com/) to install Referee Validat
 ```bash
 npm install express
 npm install axios
+npm install nodemon
 ```
 
 ## Usage
